@@ -1,29 +1,41 @@
-name: 27 Station
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.30884
 title: Gift Shop · Arts & Crafts Supply Store
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  brandColors:
+    - '#FFFFFF'
+    - '#F8D11E'
+    - '#000000'
+    - '#989898'
+    - '#333333'
+  rhythmicContrast: 0.5
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
+name: 27 Station
+favicon: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#ffffff'
-    - '#f8d11f'
-    - '#443e3e'
-    - '#000000'
-    - '#a08714'
-  brandStrength: 0.5
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.5
-purpose: []
+typography_spectrum: 0.30884
+layout_spectrum: 0.460371
