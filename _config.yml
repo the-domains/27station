@@ -2,7 +2,7 @@ name: 27 Station
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.30884
-title: "Gift Shop · Arts & Crafts Supply Store · Men's Clothing Store"
+title: Gift Shop · Arts & Crafts Supply Store · Men's Clothing Store
 cta:
   domain: null
   bucket: null
@@ -22,8 +22,8 @@ color:
     - '#443e3e'
     - '#000000'
     - '#a08714'
-  brandStrength: 1
-  lightness: 1
-  saturation: 0.5
-  rhythmicContrast: 0
+  brandStrength: 0.5
+  lightness: 0.5
+  saturation: 0
+  rhythmicContrast: 0.5
 purpose: []
